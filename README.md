@@ -11,7 +11,6 @@ percentiles).
 
 3. Perform the following operations using Python on the data set
 House_Price Prediction dataset. Compute standard deviation, variance and
-
 percentiles using separate commands, for each feature. Create a histogram
 for each feature in the dataset to illustrate the feature distributions.
 
@@ -32,7 +31,6 @@ Gender = Female, Marital Status = Married]?
 6. Write a program to do: A dataset collected in a cosmetics shop showing
 details of customers and whether or not they responded to a special offer
 to buy a new lip-stick is shown in table below. (Use library commands)
-
 According to the decision tree you have made from the previous training
 data set, what is the decision for the test data: [Age > 35, Income =
 Medium, Gender = Female, Marital Status = Married]?
@@ -61,7 +59,6 @@ the updated value of m1 and m2?
 
 10. Write a program to do the following: You have given a collection of 8
 points. P1=[2, 10] P2=[2, 5] P3=[8, 4] P4=[5, 8] P5=[7,5] P6=[6, 4] P7=[1, 2]
-
 P8=[4, 9]. Perform the k-mean clustering with initial centroids as m1=P1
 =Cluster#1=C1 and m2=P4=cluster#2=C2, m3=P7 =Cluster#3=C3. Answer
 the following 1] Which cluster does P6 belong to? 2] What is the
@@ -85,10 +82,9 @@ c. Number of persons state wise vaccinated for second dose in India
 
 14. Use the covid_vaccine_statewise.csv dataset and perform the following
 analytics.
-
 A. Describe the dataset.
 B. Number of Males vaccinated
-C.. Number of females vaccinated
+C. Number of females vaccinated
 
 15. Use the dataset 'titanic'. The dataset contains 891 rows and contains
 information about the passengers who boarded the unfortunate Titanic
@@ -101,14 +97,12 @@ name: 'fare') for each passenger is distributed by plotting a histogram.
 
 17. Compute Accuracy, Error rate, Precision, Recall for following confusion
 matrix ( Use formula for each)
-
 True Positives (TPs): 1 False Positives (FPs): 1
 False Negatives (FNs): 8 True Negatives (TNs): 90
 
 18. Use House_Price prediction dataset. Provide summary statistics (mean,
 median, minimum, maximum, standard deviation) of variables (categorical
 vs quantitative) such as- For example, if categorical variable is age groups
-
 and quantitative variable is income, then provide summary statistics of
 income grouped by the age groups.
 
@@ -131,22 +125,15 @@ final cluster means for each of the clusters.
 
 22. Compute Accuracy, Error rate, Precision, Recall for the following
 confusion matrix.
-
 Actual Class\Predicted
-
 class
-
 cancer =
 yes
-
 cancer =
 no
-
 Total
-
 cancer = yes 90 210 300
 cancer = no 140 9560 9700
-
 Total 230 9770 1000
 0
 
@@ -157,7 +144,6 @@ by step Python/Pandas commands)
 
 24. Perform the following operations using Python on a suitable data set,
 counting unique values of data, format of each column, converting variable
-
 data type (e.g. from long to short, vice versa), identifying missing values
 and filling in the missing values.
 
